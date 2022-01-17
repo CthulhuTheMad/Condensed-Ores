@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "condensedores",
+  "version": "${version}",
+
+  "name": "Condensed Ores",
+  "description": "A remake of Super Ores from 1.12.2 for modern mindecraft!",
+  "authors": [
+    "ABlackPikatchu"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/condensed-ores-fabric",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/condensedores/condensedores.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cthulhuthemad.condensedores.CondensedOres"
+    ]
+  },
+  "mixins": [
+    "condensedores.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
