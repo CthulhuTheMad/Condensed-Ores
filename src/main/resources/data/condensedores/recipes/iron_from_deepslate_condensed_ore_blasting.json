@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "condensedores:deepslate_condensed_iron_ore"
+  },
+  "result": "minecraft:iron_ingot",
+  "count": 8,
+  "experience": 0.7,
+  "cookingtime": 100
+}

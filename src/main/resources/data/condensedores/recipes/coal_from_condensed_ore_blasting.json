@@ -1,6 +1,5 @@
 {
   "type": "minecraft:blasting",
-  "group": "coal",
   "ingredient": {
     "item": "condensedores:condensed_coal_ore"
   },

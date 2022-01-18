@@ -1,6 +1,5 @@
 {
   "type": "minecraft:blasting",
-  "group": "coal",
   "ingredient": {
     "item": "condensedores:deepslate_condensed_coal_ore"
   },

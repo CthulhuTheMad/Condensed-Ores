@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "condensedores:deepslate_condensed_lapis_ore"
+  },
+  "result": "minecraft:lapis_lazuli",
+  "count": 12,
+  "experience": 0.2,
+  "cookingtime": 100
+}

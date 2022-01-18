@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "condensedores:condensed_redstone_ore"
+  },
+  "result": "minecraft:redstone",
+  "count": 10,
+  "experience": 0.7,
+  "cookingtime": 200
+}

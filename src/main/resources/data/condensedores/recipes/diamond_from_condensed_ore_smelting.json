@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "condensedores:condensed_diamond_ore"
+  },
+  "result": "minecraft:diamond",
+  "count": 5,
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "condensedores:deepslate_condensed_gold_ore"
+  },
+  "result": "minecraft:gold_ingot",
+  "count": 6,
+  "experience": 1.0,
+  "cookingtime": 200
+}

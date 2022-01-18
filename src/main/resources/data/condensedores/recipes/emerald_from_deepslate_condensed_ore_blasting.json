@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "condensedores:deepslate_condensed_emerald_ore"
+  },
+  "result": "minecraft:emerald",
+  "count": 4,
+  "experience": 1.0,
+  "cookingtime": 100
+}

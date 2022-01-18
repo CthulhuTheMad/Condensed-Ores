@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "condensedores:condensed_emerald_ore"
+  },
+  "result": "minecraft:emerald",
+  "count": 4,
+  "experience": 1.0,
+  "cookingtime": 200
+}
