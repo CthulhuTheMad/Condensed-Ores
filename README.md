@@ -6,7 +6,9 @@ Condensed Ores adds rare ores that drop more resources to the world generation!
 They mimick the generation of the regular ores but half as frequently as the normal ores.
 
 ## Dependencies
-![FABRIC](https://media.forgecdn.net/avatars/thumbnails/185/822/64/64/636829723898798601.png) This mod is built using the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+<img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" width="200">
+
+Requires [Fabric Mod Loader](https://fabricmc.net/use/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
 
 ## Coming Soon
 - Nether Ores
