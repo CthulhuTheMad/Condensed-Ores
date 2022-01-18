@@ -21,6 +21,6 @@ Requires [Fabric Mod Loader](https://fabricmc.net/use/) and [Fabric API](https:/
 ## Additional info
 You can find this mod on curseforge [here.](https://www.curseforge.com/minecraft/mc-mods/condensed-ores-fabric)
 
-If you have an issue or a feature request please use one of the [templates.](https://github.com/CthulhuTheMad/fabric-condensed-ores-1.18/tree/master/.github/ISSUE_TEMPLATE)
+If you have an issue or a feature request please use one of the templates after clicking new issue [here.](https://github.com/CthulhuTheMad/Condensed-Ores/issues)
 
 
