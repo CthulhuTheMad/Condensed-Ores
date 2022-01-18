@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "condensedores:block/deepslate_condensed_copper_ore"
+  }
+}

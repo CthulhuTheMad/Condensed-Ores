@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "condensedores:condensed_coal_ore",
+    "condensedores:deepslate_condensed_coal_ore",
+    "condensedores:condensed_copper_ore",
+    "condensedores:deepslate_condensed_copper_ore",
+    "condensedores:condensed_diamond_ore",
+    "condensedores:deepslate_condensed_diamond_ore",
+    "condensedores:condensed_emerald_ore",
+    "condensedores:deepslate_condensed_emerald_ore",
+    "condensedores:condensed_gold_ore",
+    "condensedores:deepslate_condensed_gold_ore",
+    "condensedores:condensed_iron_ore",
+    "condensedores:deepslate_condensed_iron_ore",
+    "condensedores:condensed_lapis_ore",
+    "condensedores:deepslate_condensed_lapis_ore",
+    "condensedores:condensed_redstone_ore",
+    "condensedores:deepslate_condensed_redstone_ore"
+  ]
+}

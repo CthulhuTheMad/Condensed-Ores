@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "condensedores:condensed_copper_ore",
+    "condensedores:deepslate_condensed_copper_ore",
+    "condensedores:condensed_iron_ore",
+    "condensedores:deepslate_condensed_iron_ore",
+    "condensedores:condensed_lapis_ore",
+    "condensedores:deepslate_condensed_lapis_ore"
+  ]
+}

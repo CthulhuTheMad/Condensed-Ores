@@ -1,0 +1,20 @@
+{
+  "block.condensedores.condensed_coal_ore": "Condensed Coal Ore",
+  "block.condensedores.deepslate_condensed_coal_ore": "Deepslate Condensed Coal Ore",
+  "block.condensedores.condensed_copper_ore": "Condensed Copper Ore",
+  "block.condensedores.deepslate_condensed_copper_ore": "Deepslate Condensed Copper Ore",
+  "block.condensedores.condensed_diamond_ore": "Condensed Diamond Ore",
+  "block.condensedores.deepslate_condensed_diamond_ore": "Deepslate Condensed Diamond Ore",
+  "block.condensedores.condensed_emerald_ore": "Condensed Emerald Ore",
+  "block.condensedores.deepslate_condensed_emerald_ore": "Deepslate Condensed Emerald Ore",
+  "block.condensedores.condensed_gold_ore": "Condensed Gold Ore",
+  "block.condensedores.deepslate_condensed_gold_ore": "Deepslate Condensed Gold Ore",
+  "block.condensedores.condensed_iron_ore": "Condensed Iron Ore",
+  "block.condensedores.deepslate_condensed_iron_ore": "Deepslate Condensed Iron Ore",
+  "block.condensedores.condensed_lapis_ore": "Condensed Lapis Ore",
+  "block.condensedores.deepslate_condensed_lapis_ore": "Deepslate Condensed Lapis Ore",
+  "block.condensedores.condensed_redstone_ore": "Condensed Redstone Ore",
+  "block.condensedores.deepslate_condensed_redstone_ore": "Deepslate Condensed Redtone Ore",
+
+  "itemGroup.condensedores.condensed_ores": "Condensed Ores"
+}

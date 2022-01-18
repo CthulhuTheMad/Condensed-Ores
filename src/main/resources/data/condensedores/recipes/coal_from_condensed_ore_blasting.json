@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "coal",
+  "ingredient": {
+    "item": "condensedores:condensed_coal_ore"
+  },
+  "result": "minecraft:coal",
+  "count": 12,
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "condensedores:deepslate_condensed_coal_ore"
+  },
+  "result": "minecraft:coal",
+  "count": 12,
+  "experience": 0.1,
+  "cookingtime": 200
+}

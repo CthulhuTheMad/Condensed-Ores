@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "condensedores:condensed_diamond_ore",
+    "condensedores:deepslate_condensed_diamond_ore",
+    "condensedores:condensed_emerald_ore",
+    "condensedores:deepslate_condensed_emerald_ore",
+    "condensedores:condensed_gold_ore",
+    "condensedores:deepslate_condensed_gold_ore",
+    "condensedores:condensed_redstone_ore",
+    "condensedores:deepslate_condensed_redstone_ore"
+  ]
+}
