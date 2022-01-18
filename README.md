@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/license/cthulhuthemad/condensed-ores?logo=MIT">
+<img src="https://img.shields.io/github/license/cthulhuthemad/condensed-ores?logo=MIT"> <img src="https://img.shields.io/github/v/release/cthulhuthemad/condensed-ores?color=green&include_prereleases&logo=github">
 
 # Condensed Ores
 A remake of super ores from 1.12.2 for modern Minecraft!
