@@ -13,6 +13,8 @@ Requires [Fabric Mod Loader](https://fabricmc.net/use/) and [Fabric API](https:/
 ## Coming Soon
 - Nether Ores
 - Possible mod integrations
+- Backport to 1.17 & 1.16.5(Maybe)
+- Forge version
 
 ## Additional info
 You can find this mod on curseforge [here.](https://www.curseforge.com/minecraft/mc-mods/condensed-ores-fabric)
