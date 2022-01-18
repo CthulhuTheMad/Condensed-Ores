@@ -19,6 +19,6 @@ public class CondensedOres implements ModInitializer {
 
 		ModWorldGen.generateModWorldGen();
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Now loading " + CondensedOres.MOD_ID);
 	}
 }

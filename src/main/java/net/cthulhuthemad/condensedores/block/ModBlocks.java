@@ -1,6 +1,7 @@
 package net.cthulhuthemad.condensedores.block;
 
 import net.cthulhuthemad.condensedores.CondensedOres;
+import net.cthulhuthemad.condensedores.block.custom.CondensedRedstoneOreBlock;
 import net.cthulhuthemad.condensedores.item.ModItemGroup;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
@@ -47,10 +48,10 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.STONE).strength(3f, 3f).requiresTool()), ModItemGroup.CONDENSED_ORES);
     public static final Block DEEPSLATE_CONDENSED_LAPIS_ORE = registerBlock("deepslate_condensed_lapis_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f, 3f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE)), ModItemGroup.CONDENSED_ORES);
-    public static final Block CONDENSED_REDSTONE_ORE = registerBlock("condensed_gold_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(3f, 3f).requiresTool().ticksRandomly().luminance(createLightLevelFromLitBlockState(9))), ModItemGroup.CONDENSED_ORES);
+    public static final Block CONDENSED_REDSTONE_ORE = registerBlock("condensed_redstone_ore",
+            new CondensedRedstoneOreBlock(FabricBlockSettings.of(Material.STONE).strength(3f, 3f).requiresTool().ticksRandomly().luminance(createLightLevelFromLitBlockState(9))), ModItemGroup.CONDENSED_ORES);
     public static final Block DEEPSLATE_CONDENSED_REDSTONE_ORE = registerBlock("deepslate_condensed_redstone_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f, 3f).requiresTool().ticksRandomly().luminance(createLightLevelFromLitBlockState(9)).sounds(BlockSoundGroup.DEEPSLATE)), ModItemGroup.CONDENSED_ORES);
+            new CondensedRedstoneOreBlock(FabricBlockSettings.of(Material.STONE).strength(4.5f, 3f).requiresTool().ticksRandomly().luminance(createLightLevelFromLitBlockState(9)).sounds(BlockSoundGroup.DEEPSLATE)), ModItemGroup.CONDENSED_ORES);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group) {

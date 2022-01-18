@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class ExampleMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		CondensedOres.LOGGER.info("This line is printed by an example mod mixin!");
+		CondensedOres.LOGGER.info("No mixins to load for " + CondensedOres.MOD_ID);
 	}
 }

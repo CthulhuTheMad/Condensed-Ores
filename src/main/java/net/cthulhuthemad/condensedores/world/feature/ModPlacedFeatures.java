@@ -68,7 +68,7 @@ public class ModPlacedFeatures {
                     HeightRangePlacementModifier.trapezoid(YOffset.fixed(-64), YOffset.fixed(32)))));
     public static final PlacedFeature CONDENSED_GOLD_ORE_LOWER_PLACED = registerPlacedFeature("condensed_gold_ore_lower_placed",
             ModConfiguredFeature.CONDENSED_GOLD_ORE_BURIED.withPlacement(modifiers(CountPlacementModifier.of(UniformIntProvider.create(0, 1)), HeightRangePlacementModifier.uniform(YOffset.fixed(-64), YOffset.fixed(-48)))));
-    public static final PlacedFeature CONDENSED_IRON_ORE_UPPER_PLACED = registerPlacedFeature("condensed_iron_ore_upper",
+    public static final PlacedFeature CONDENSED_IRON_ORE_UPPER_PLACED = registerPlacedFeature("condensed_iron_ore_upper_placed",
             ModConfiguredFeature.CONDENSED_IRON_ORE.withPlacement(ModOreFeatures.modifiersWithCount(45,
                     HeightRangePlacementModifier.trapezoid(YOffset.fixed(80), YOffset.fixed(384)))));
     public static final PlacedFeature CONDENSED_IRON_ORE_MIDDLE_PLACED = registerPlacedFeature("condensed_iron_ore_middle_placed",
@@ -86,7 +86,7 @@ public class ModPlacedFeatures {
     public static final PlacedFeature CONDENSED_REDSTONE_ORE_PLACED = registerPlacedFeature("condensed_redstone_ore_placed",
             ModConfiguredFeature.CONDENSED_REDSTONE_ORE.withPlacement(ModOreFeatures.modifiersWithCount(2,
                     HeightRangePlacementModifier.uniform(YOffset.getBottom(), YOffset.fixed(15)))));
-    public static final PlacedFeature CONDENSED_REDSTONE_ORE_LOWER_PLACED = registerPlacedFeature("condensed_redstone_lower_ore",
+    public static final PlacedFeature CONDENSED_REDSTONE_ORE_LOWER_PLACED = registerPlacedFeature("condensed_redstone_ore_lower_placed",
             ModConfiguredFeature.CONDENSED_REDSTONE_ORE.withPlacement(ModOreFeatures.modifiersWithCount(4,
                     HeightRangePlacementModifier.trapezoid(YOffset.aboveBottom(-32), YOffset.aboveBottom(32)))));
 
